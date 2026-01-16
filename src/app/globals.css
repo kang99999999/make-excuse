@@ -1,26 +1,487 @@
-@import "tailwindcss";
-
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
+/* =========================
+   Base
+========================= */
+* {
+  box-sizing: border-box;
 }
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
-}
-
+html,
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  padding: 0;
+  font-family: 'Pretendard Variable', 'Pretendard', system-ui, sans-serif !important;
+  /* font-family: 'SUIT', system-ui, sans-serif; */
+
 }
+
+/* =========================
+   Page Background
+========================= */
+.page {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  background-color: #05072a;
+  background-image: url('/bg-emojis.svg');
+  background-repeat: repeat;
+  background-size: 200px 200px;
+  
+}
+
+/* =========================
+   Main Card
+========================= */
+.excuse-card {
+  width: 380px;
+  background: #ffce2e;
+  border-radius: 16px;
+  padding: 22px;
+  border: 4px solid #0b0f3b;
+  box-shadow: 0 20px 45px rgba(0, 0, 0, 0.45);
+}
+
+/* =========================
+   Title Box (h1 + subtitle)
+========================= */
+.title-box {
+  background: #0b0f3b;
+  color: #fff;
+  border-radius: 12px;
+  padding: 14px 12px;
+  text-align: center;
+  margin-bottom: 18px;
+}
+
+.title-box h1 {
+  margin: 0;
+  font-size: 20px;
+  font-weight: 700;
+  font-size: 25px;
+  padding: 10px;
+  letter-spacing: 2px;
+
+}
+
+.title-box p {
+  margin: 6px 0 0;
+  font-size: 12px;
+  opacity: 0.9;
+  letter-spacing: 1px;
+
+}
+
+/* =========================
+   Labels
+========================= */
+.label {
+  display: block;
+  margin: 14px 0 6px;
+  font-size: 13px;
+  font-weight: 400;
+}
+
+/* =========================
+   Select
+========================= */
+select {
+  width: 100%;
+  padding: 10px;
+  border-radius: 8px;
+  border: none;
+  font-size: 14px;
+}
+
+/* =========================
+   Tone Selector (Gauge Look)
+========================= */
+.tone-selector {
+  margin: 18px 0 20px;
+}
+
+
+
+.tone-selector p {
+  font-weight: 400;
+  font-size: 13px;
+  margin-bottom: 10px;
+}
+
+.tone-options {
+  display: flex;
+  justify-content: space-between;
+  background: #ffffff;
+  border-radius: 999px;
+  padding: 6px;
+}
+
+.tone-options label {
+  flex: 1;
+  text-align: center;
+  font-size: 12px;
+  cursor: pointer;
+}
+
+.tone-options input {
+  display: none;
+}
+
+.tone-options span {
+  display: block;
+  padding: 6px 0;
+  border-radius: 999px;
+}
+
+.tone-options input:checked + span {
+  background: #c52f2f;
+  color:white;
+  font-weight: 600;
+}
+
+/* =========================
+   Buttons
+========================= */
+button {
+  width: 100%;
+  border: none;
+  border-radius: 10px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+button:active {
+  transform: scale(0.98);
+}
+
+.generate-btn {
+  background: #c52f2f;
+  color: #fff;
+  padding: 14px;
+  font-size: 15px;
+  margin-top: 10px;
+}
+.generate-btn:hover {
+  background: #4e0606;
+  color: #fff;
+}
+.ranking-btn {
+  background: #0b0f3b;
+  color: #ffffff;
+  padding: 10px;
+  font-size: 13px;
+  margin-top: 10px;
+}
+.ranking-btn:hover {
+  background: #383e85;
+}
+/* =========================
+   Modal Backdrop
+========================= */
+.modal-backdrop {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.55);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 999;
+}
+
+/* =========================
+   Excuse Modal
+========================= */
+.modal {
+  background: #ffe08a;
+  max-width: 700px;
+  width: 90%;
+  border-radius: 18px;
+  padding: 30px 26px 26px;
+  position: relative;
+  border: 4px solid #0b0f3b;
+}
+
+.modal-close {
+  position: absolute;
+  top: 14px;
+  right: 14px;
+  background: none;
+  border: none;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+
+.excuse-text {
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 1.5;
+  text-align: center;
+  margin: 20px 0 30px;
+}
+
+.modal-actions {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+}
+
+.modal-actions button {
+  padding: 10px 14px;
+  border-radius: 10px;
+  border: none;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+/* =========================
+   Ranking Modal
+========================= */
+.ranking-modal {
+  background: #ffe08a;
+  width: 420px;
+  max-width: 90%;
+  border-radius: 18px;
+  padding: 26px;
+  border: 4px solid #0b0f3b;
+  position: relative;
+}
+
+.ranking-modal h2 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.ranking-modal ol {
+  padding: 0;
+  margin: 0;
+}
+
+.ranking-modal li {
+  list-style: none;
+  background: #fff;
+  border-radius: 10px;
+  padding: 12px;
+  margin-bottom: 10px;
+}
+
+.rank {
+  font-weight: 900;
+  margin-right: 6px;
+}
+
+.likes {
+  display: block;
+  margin-top: 6px;
+  font-size: 13px;
+}
+
+/* =========================
+   Excuse Modal v2
+========================= */
+
+.excuse-modal-v2 {
+  width: 420px;
+  max-width: 90%;
+  background: #ffd035;
+  border-radius: 22px;
+  border: 4px solid #0b0f3b;
+  overflow: hidden;
+}
+
+/* Header */
+.modal-header-v2 {
+  background: #1f2350;
+  color: #fff;
+  padding: 14px 14px 14px 30px;
+  font-weight: 600;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 20px;
+}
+
+.modal-header-v2 button {
+  background-color: white;
+  color:rgb(27, 27, 27);
+  width: 20px;
+  padding:0;
+  font-size:14px;
+  border: none;
+  font-weight: 600;
+  border-radius: 6px;
+  cursor: pointer;
+}
+.modal-header-v2 button:hover {
+  background-color: #ff7c7c;
+}
+
+/* Body */
+.modal-body-v2 {
+  padding: 22px;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+
+.excuse-box {
+  background: #fff;
+  min-height: 150px;
+  max-height: 500px;
+  overflow-y: auto;
+  border-radius: 14px;
+  padding: 18px;
+    display: flex;            
+  align-items: center;        /* 세로 가운데 */
+  justify-content: center;    
+  font-size: 25px;
+  font-weight: 600;
+  text-align: center;
+  line-height: 2;
+  vertical-align: ce;
+}
+
+/* Buttons */
+.btn {
+  border-radius: 10px;
+  border: none;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.btn.primary {
+  background: #1f2350;
+  color: #fff;
+}
+
+.btn.primary:hover {
+  background: #05082a;
+  transform: translateY(-2px);
+}
+
+.btn.secondary {
+  background: #7e1111;
+  color: #fff;
+}
+
+.btn.secondary:hover {
+  background: #3f0404;
+}
+
+.btn.ghost {
+  background: #bb4646;
+  color:white;
+}
+
+.btn.ghost:hover {
+  background: #3f2424;
+}
+
+.btn.wide {
+  padding: 14px;
+  font-size: 15px;
+}
+
+.btn-row {
+  display: flex;
+  gap: 10px;
+}
+
+.btn-row .btn {
+  flex: 1;
+  padding: 12px;
+}
+
+
+
+.modal-warning {
+  font-size: 12px;
+  text-align: center;
+  opacity: 0.7;
+  font-weight: 800;
+  margin-top: 6px;
+}
+
+/* =========================
+   Ranking Modal v2
+========================= */
+
+.ranking-modal-v2 {
+  width: 420px;
+  max-width: 90%;
+  background: #ffd035;
+  border-radius: 22px;
+  border: 4px solid #0b0f3b;
+  overflow: hidden;
+}
+
+/* Body */
+.ranking-body {
+  padding: 18px;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+
+/* Rank Item */
+.rank-item {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+/* Rank Title */
+.rank-title {
+  background: #1e255f;
+  color: #fff;
+  font-weight: 400;
+  font-size: 14px;
+  padding: 6px 10px;
+  border-radius: 8px;
+  text-align: center;
+}
+
+/* Rank Card */
+.rank-card {
+  background: #1e255f;
+  border-radius: 14px;
+  overflow: hidden;
+  margin-bottom: 16px;
+  box-shadow: 0 6px 14px rgba(0,0,0,0.25);
+}
+
+/* 상단 순위 헤더 */
+.rank-card-header {
+  background: #424985;
+  color: #fff;
+  font-weight: 500;
+  text-align: center;
+  padding: 10px;
+  font-size: 14px;
+}
+
+/* 카드 바디 */
+.rank-card-body {
+  background: #ffffff;
+  color: #1e255f;
+  padding: 14px 16px;
+  position: relative;
+}
+
+/* 변명 텍스트 */
+.rank-text {
+  font-weight: 600;
+  line-height: 1.5;
+  margin: 0 0 10px;
+  color: black;
+}
+
+/* 좋아요 */
+.rank-likes {
+  font-size: 13px;
+  font-weight: 600;
+  text-align: right;
+  color:#7e1111;
+}
+

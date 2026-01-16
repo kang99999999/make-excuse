@@ -1,0 +1,333 @@
+{"_type":"excuse","text":"일정 간 여유를 충분히 고려하지 못했다.","target":"직장 상사","situation":"지각","tone":"serious","likes":0,"isActive":true}
+{"_type":"excuse","text":"업무 우선순위 판단에 시간이 필요했다.","target":"직장 상사","situation":"실수","tone":"serious","likes":0,"isActive":true}
+{"_type":"excuse","text":"집중력 관리가 기대만큼 되지 않았다.","target":"동료","situation":"실수","tone":"serious","likes":0,"isActive":true}
+{"_type":"excuse","text":"상황을 과도하게 낙관적으로 판단했다.","target":"나에게","situation":"목표 달성 실패","tone":"serious","likes":0,"isActive":true}
+{"_type":"excuse","text":"오늘은 체력 안배가 필요한 상태였다.","target":"나에게","situation":"아무것도 안 함","tone":"serious","likes":0,"isActive":true}
+{"_type":"excuse","text":"업무 흐름을 정확히 예측하지 못했다.","target":"직장 상사","situation":"실수","tone":"serious","likes":0,"isActive":true}
+{"_type":"excuse","text":"일정 변경에 즉각 대응하지 못했다.","target":"직장 상사","situation":"지각","tone":"serious","likes":0,"isActive":true}
+{"_type":"excuse","text":"계획 수립 과정에서 변수를 과소평가했다.","target":"나에게","situation":"목표 달성 실패","tone":"serious","likes":0,"isActive":true}
+{"_type":"excuse","text":"업무 이해도가 충분하지 못했다.","target":"동료","situation":"실수","tone":"serious","likes":0,"isActive":true}
+{"_type":"excuse","text":"집중을 유지하기에 환경이 다소 불리했다.","target":"나에게","situation":"아무것도 안 함","tone":"serious","likes":0,"isActive":true}
+
+{"_type":"excuse","text":"시간 배분에 여유를 두지 못했다.","target":"직장 상사","situation":"지각","tone":"serious","likes":0,"isActive":true}
+{"_type":"excuse","text":"업무 판단에 신중함이 부족했다.","target":"직장 상사","situation":"실수","tone":"serious","likes":0,"isActive":true}
+{"_type":"excuse","text":"목표 설정이 현실적이지 못했다.","target":"나에게","situation":"목표 달성 실패","tone":"serious","likes":0,"isActive":true}
+{"_type":"excuse","text":"업무 집중 시간이 분산됐다.","target":"동료","situation":"실수","tone":"serious","likes":0,"isActive":true}
+{"_type":"excuse","text":"오늘은 회복이 우선인 상태였다.","target":"나에게","situation":"아무것도 안 함","tone":"serious","likes":0,"isActive":true}
+
+{"_type":"excuse","text":"업무 처리 속도를 정확히 가늠하지 못했다.","target":"직장 상사","situation":"실수","tone":"serious","likes":0,"isActive":true}
+{"_type":"excuse","text":"일정 간 이동 시간을 충분히 고려하지 못했다.","target":"직장 상사","situation":"지각","tone":"serious","likes":0,"isActive":true}
+{"_type":"excuse","text":"계획 실행 과정에서 예상치 못한 지연이 발생했다.","target":"나에게","situation":"목표 달성 실패","tone":"serious","likes":0,"isActive":true}
+{"_type":"excuse","text":"업무 맥락을 완전히 파악하지 못했다.","target":"동료","situation":"실수","tone":"serious","likes":0,"isActive":true}
+{"_type":"excuse","text":"오늘은 휴식이 장기적으로 필요하다고 판단했다.","target":"나에게","situation":"아무것도 안 함","tone":"serious","likes":0,"isActive":true}
+
+{"_type":"excuse","text":"업무 일정에 여유를 두지 못한 판단이었다.","target":"직장 상사","situation":"지각","tone":"serious","likes":0,"isActive":true}
+{"_type":"excuse","text":"업무 진행 상황을 과신했다.","target":"직장 상사","situation":"실수","tone":"serious","likes":0,"isActive":true}
+{"_type":"excuse","text":"목표를 지나치게 이상적으로 설정했다.","target":"나에게","situation":"목표 달성 실패","tone":"serious","likes":0,"isActive":true}
+{"_type":"excuse","text":"업무 집중력이 일정하게 유지되지 않았다.","target":"동료","situation":"실수","tone":"serious","likes":0,"isActive":true}
+{"_type":"excuse","text":"오늘은 재정비가 필요한 시점이었다.","target":"나에게","situation":"아무것도 안 함","tone":"serious","likes":0,"isActive":true}
+
+{"_type":"excuse","text":"업무 일정 관리에 미흡한 부분이 있었다.","target":"직장 상사","situation":"실수","tone":"serious","likes":0,"isActive":true}
+{"_type":"excuse","text":"시간 관리에서 판단이 늦었다.","target":"직장 상사","situation":"지각","tone":"serious","likes":0,"isActive":true}
+{"_type":"excuse","text":"목표 달성에 필요한 여유를 확보하지 못했다.","target":"나에게","situation":"목표 달성 실패","tone":"serious","likes":0,"isActive":true}
+{"_type":"excuse","text":"업무 판단 과정에서 검토가 부족했다.","target":"동료","situation":"실수","tone":"serious","likes":0,"isActive":true}
+{"_type":"excuse","text":"오늘은 의도적으로 속도를 늦췄다.","target":"나에게","situation":"아무것도 안 함","tone":"serious","likes":0,"isActive":true}
+
+{"_type":"excuse","text":"업무 준비 과정이 충분하지 못했다.","target":"직장 상사","situation":"실수","tone":"serious","likes":0,"isActive":true}
+{"_type":"excuse","text":"일정 간 전환 시간이 예상보다 길어졌다.","target":"직장 상사","situation":"지각","tone":"serious","likes":0,"isActive":true}
+{"_type":"excuse","text":"계획과 실행 사이 간극이 있었다.","target":"나에게","situation":"목표 달성 실패","tone":"serious","likes":0,"isActive":true}
+{"_type":"excuse","text":"업무 세부 사항을 놓쳤다.","target":"동료","situation":"실수","tone":"serious","likes":0,"isActive":true}
+{"_type":"excuse","text":"오늘은 스스로를 점검하는 데 집중했다.","target":"나에게","situation":"아무것도 안 함","tone":"serious","likes":0,"isActive":true}
+
+{"_type":"excuse","text":"업무 흐름을 지나치게 단순하게 판단했다.","target":"직장 상사","situation":"실수","tone":"serious","likes":0,"isActive":true}
+{"_type":"excuse","text":"일정 간 전환 시간을 충분히 고려하지 못했다.","target":"직장 상사","situation":"지각","tone":"serious","likes":0,"isActive":true}
+{"_type":"excuse","text":"집중할 수 있는 환경을 만들지 못했다.","target":"동료","situation":"실수","tone":"serious","likes":0,"isActive":true}
+{"_type":"excuse","text":"목표를 설정하는 단계에서 무리가 있었다.","target":"나에게","situation":"목표 달성 실패","tone":"serious","likes":0,"isActive":true}
+{"_type":"excuse","text":"오늘은 회복을 우선으로 판단했다.","target":"나에게","situation":"아무것도 안 함","tone":"serious","likes":0,"isActive":true}
+
+{"_type":"excuse","text":"업무 준비 과정이 충분하지 못했다.","target":"직장 상사","situation":"실수","tone":"serious","likes":0,"isActive":true}
+{"_type":"excuse","text":"시간 관리에서 여유를 두지 못했다.","target":"직장 상사","situation":"지각","tone":"serious","likes":0,"isActive":true}
+{"_type":"excuse","text":"업무 판단에 필요한 정보를 놓쳤다.","target":"동료","situation":"실수","tone":"serious","likes":0,"isActive":true}
+{"_type":"excuse","text":"계획 실행 속도를 과대평가했다.","target":"나에게","situation":"목표 달성 실패","tone":"serious","likes":0,"isActive":true}
+{"_type":"excuse","text":"오늘은 속도를 조절할 필요가 있었다.","target":"나에게","situation":"아무것도 안 함","tone":"serious","likes":0,"isActive":true}
+
+{"_type":"excuse","text":"업무 전반을 재검토하는 데 시간이 필요했다.","target":"직장 상사","situation":"실수","tone":"serious","likes":0,"isActive":true}
+{"_type":"excuse","text":"일정 간 간격을 현실적으로 계산하지 못했다.","target":"직장 상사","situation":"지각","tone":"serious","likes":0,"isActive":true}
+{"_type":"excuse","text":"업무 세부 사항에 대한 확인이 부족했다.","target":"동료","situation":"실수","tone":"serious","likes":0,"isActive":true}
+{"_type":"excuse","text":"목표 대비 여유를 충분히 확보하지 못했다.","target":"나에게","situation":"목표 달성 실패","tone":"serious","likes":0,"isActive":true}
+{"_type":"excuse","text":"오늘은 재정비가 필요하다고 판단했다.","target":"나에게","situation":"아무것도 안 함","tone":"serious","likes":0,"isActive":true}
+
+{"_type":"excuse","text":"업무 진행 속도를 정확히 예측하지 못했다.","target":"직장 상사","situation":"실수","tone":"serious","likes":0,"isActive":true}
+{"_type":"excuse","text":"이동 시간을 보수적으로 산정하지 못했다.","target":"직장 상사","situation":"지각","tone":"serious","likes":0,"isActive":true}
+{"_type":"excuse","text":"업무 맥락을 충분히 공유하지 못했다.","target":"동료","situation":"실수","tone":"serious","likes":0,"isActive":true}
+{"_type":"excuse","text":"계획과 현실 사이 간극이 있었다.","target":"나에게","situation":"목표 달성 실패","tone":"serious","likes":0,"isActive":true}
+{"_type":"excuse","text":"오늘은 컨디션 조절이 필요했다.","target":"나에게","situation":"아무것도 안 함","tone":"serious","likes":0,"isActive":true}
+
+{"_type":"excuse","text":"업무 일정 관리에서 미흡한 점이 있었다.","target":"직장 상사","situation":"실수","tone":"serious","likes":0,"isActive":true}
+{"_type":"excuse","text":"일정 시작 시간을 여유 있게 잡지 못했다.","target":"직장 상사","situation":"지각","tone":"serious","likes":0,"isActive":true}
+{"_type":"excuse","text":"업무 판단 과정에서 검토가 부족했다.","target":"동료","situation":"실수","tone":"serious","likes":0,"isActive":true}
+{"_type":"excuse","text":"목표를 지나치게 낙관적으로 설정했다.","target":"나에게","situation":"목표 달성 실패","tone":"serious","likes":0,"isActive":true}
+{"_type":"excuse","text":"오늘은 에너지 관리가 우선이었다.","target":"나에게","situation":"아무것도 안 함","tone":"serious","likes":0,"isActive":true}
+
+{"_type":"excuse","text":"업무 준비에 필요한 시간을 과소평가했다.","target":"직장 상사","situation":"실수","tone":"serious","likes":0,"isActive":true}
+{"_type":"excuse","text":"일정 조정에 즉각 대응하지 못했다.","target":"직장 상사","situation":"지각","tone":"serious","likes":0,"isActive":true}
+{"_type":"excuse","text":"업무 이해에 시간이 더 필요했다.","target":"동료","situation":"실수","tone":"serious","likes":0,"isActive":true}
+{"_type":"excuse","text":"계획 수립 단계에서 여유를 두지 못했다.","target":"나에게","situation":"목표 달성 실패","tone":"serious","likes":0,"isActive":true}
+{"_type":"excuse","text":"오늘은 무리하지 않는 선택을 했다.","target":"나에게","situation":"아무것도 안 함","tone":"serious","likes":0,"isActive":true}
+
+{"_type":"excuse","text":"출근 준비는 끝났는데 몸보다 생각이 먼저 출근해버렸다.","target":"직장 상사","situation":"지각","tone":"funny","likes":0,"isActive":true}
+{"_type":"excuse","text":"회의 내용을 정리하다가 생각이 회의를 탈주해버렸다.","target":"동료","situation":"실수","tone":"funny","likes":0,"isActive":true}
+{"_type":"excuse","text":"계획만 수정하다가 하루 전체가 수정돼버렸다.","target":"나에게","situation":"목표 달성 실패","tone":"funny","likes":0,"isActive":true}
+{"_type":"excuse","text":"약속 장소까지 상상으로 다녀와서 체력이 소진됐다.","target":"친구","situation":"약속 취소","tone":"funny","likes":0,"isActive":true}
+{"_type":"excuse","text":"아무것도 안 하려고 했는데 그 결정을 내리느라 하루가 갔다.","target":"나에게","situation":"아무것도 안 함","tone":"funny","likes":0,"isActive":true}
+
+{"_type":"excuse","text":"집중하려는 순간 생각이 산책 나가버렸다.","target":"동료","situation":"실수","tone":"funny","likes":0,"isActive":true}
+{"_type":"excuse","text":"출근길에서 시간과 진지하게 토론을 하다 늦어버렸다.","target":"직장 상사","situation":"지각","tone":"funny","likes":0,"isActive":true}
+{"_type":"excuse","text":"계획은 진지했는데 실행이 농담처럼 행동했다.","target":"나에게","situation":"목표 달성 실패","tone":"funny","likes":0,"isActive":true}
+{"_type":"excuse","text":"약속을 지키려다 오늘의 컨디션이 반란을 일으켰다.","target":"연인","situation":"약속 취소","tone":"funny","likes":0,"isActive":true}
+{"_type":"excuse","text":"오늘은 아무것도 안 하기로 내 안의 위원회가 결정했다.","target":"나에게","situation":"아무것도 안 함","tone":"funny","likes":0,"isActive":true}
+
+{"_type":"excuse","text":"업무를 시작하려는 순간 생각이 다른 회의실로 이동했다.","target":"동료","situation":"실수","tone":"funny","likes":0,"isActive":true}
+{"_type":"excuse","text":"출근 시간과 합의점을 찾지 못해 늦어버렸다.","target":"직장 상사","situation":"지각","tone":"funny","likes":0,"isActive":true}
+{"_type":"excuse","text":"계획을 세우는 데 너무 진심이어서 실행이 밀려났다.","target":"나에게","situation":"목표 달성 실패","tone":"funny","likes":0,"isActive":true}
+{"_type":"excuse","text":"약속을 취소하지 않으면 오늘이 나를 취소할 것 같았다.","target":"친구","situation":"약속 취소","tone":"funny","likes":0,"isActive":true}
+{"_type":"excuse","text":"아무것도 안 하려다가 그 상태를 유지하느라 바빴다.","target":"나에게","situation":"아무것도 안 함","tone":"funny","likes":0,"isActive":true}
+
+{"_type":"excuse","text":"집중력은 출근했는데 업무 내용을 놓고 왔다.","target":"동료","situation":"실수","tone":"funny","likes":0,"isActive":true}
+{"_type":"excuse","text":"출근 준비 중 시간이 혼자 결정을 내려버렸다.","target":"직장 상사","situation":"지각","tone":"funny","likes":0,"isActive":true}
+{"_type":"excuse","text":"계획을 실행하려는 순간 오늘이 다른 방향을 선택했다.","target":"나에게","situation":"목표 달성 실패","tone":"funny","likes":0,"isActive":true}
+{"_type":"excuse","text":"약속을 지키려 했지만 오늘의 현실이 너무 공격적이었다.","target":"연인","situation":"약속 취소","tone":"funny","likes":0,"isActive":true}
+{"_type":"excuse","text":"오늘은 아무것도 안 하기엔 너무 완벽한 날이었다.","target":"나에게","situation":"아무것도 안 함","tone":"funny","likes":0,"isActive":true}
+
+{"_type":"excuse","text":"업무를 하려다 생각이 먼저 점심시간에 들어갔다.","target":"동료","situation":"실수","tone":"funny","likes":0,"isActive":true}
+{"_type":"excuse","text":"출근 시간과 끝내 합의에 도달하지 못했다.","target":"직장 상사","situation":"지각","tone":"funny","likes":0,"isActive":true}
+{"_type":"excuse","text":"계획을 조정하다가 하루 일정이 탈선했다.","target":"나에게","situation":"목표 달성 실패","tone":"funny","likes":0,"isActive":true}
+{"_type":"excuse","text":"약속을 취소한 건 오늘의 기운이 너무 강력했다.","target":"친구","situation":"약속 취소","tone":"funny","likes":0,"isActive":true}
+{"_type":"excuse","text":"아무것도 안 하기로 결심하는 데 하루가 걸렸다.","target":"나에게","situation":"아무것도 안 함","tone":"funny","likes":0,"isActive":true}
+
+{"_type":"excuse","text":"집중하려는 찰나 생각이 자율주행을 시작했다.","target":"동료","situation":"실수","tone":"funny","likes":0,"isActive":true}
+{"_type":"excuse","text":"출근 준비는 했는데 시간이 먼저 집을 나갔다.","target":"직장 상사","situation":"지각","tone":"funny","likes":0,"isActive":true}
+{"_type":"excuse","text":"계획은 있었으나 오늘이 이를 거부했다.","target":"나에게","situation":"목표 달성 실패","tone":"funny","likes":0,"isActive":true}
+{"_type":"excuse","text":"약속을 지키기엔 오늘의 컨디션이 너무 솔직했다.","target":"연인","situation":"약속 취소","tone":"funny","likes":0,"isActive":true}
+{"_type":"excuse","text":"오늘은 아무것도 안 하는 쪽으로 우주가 기울었다.","target":"나에게","situation":"아무것도 안 함","tone":"funny","likes":0,"isActive":true}
+
+
+{"_type":"excuse","text":"출근 준비는 마쳤는데 시간이 나를 두고 먼저 가버렸다.","target":"직장 상사","situation":"지각","tone":"funny","likes":0,"isActive":true}
+{"_type":"excuse","text":"회의 내용을 이해하는 순간 생각이 갑자기 퇴근했다.","target":"동료","situation":"실수","tone":"funny","likes":0,"isActive":true}
+{"_type":"excuse","text":"계획을 세우다 보니 오늘이 이미 끝나 있었다.","target":"나에게","situation":"목표 달성 실패","tone":"funny","likes":0,"isActive":true}
+{"_type":"excuse","text":"약속 장소를 상상만 해도 체력이 빠져버렸다.","target":"친구","situation":"약속 취소","tone":"funny","likes":0,"isActive":true}
+{"_type":"excuse","text":"아무것도 안 하기로 결심하는 데 너무 많은 에너지를 썼다.","target":"나에게","situation":"아무것도 안 함","tone":"funny","likes":0,"isActive":true}
+
+{"_type":"excuse","text":"집중하려는 순간 생각이 다른 안건을 상정했다.","target":"동료","situation":"실수","tone":"funny","likes":0,"isActive":true}
+{"_type":"excuse","text":"출근길에서 시간과 가치관 차이가 발생했다.","target":"직장 상사","situation":"지각","tone":"funny","likes":0,"isActive":true}
+{"_type":"excuse","text":"계획을 실행하려는 찰나 오늘이 방향을 틀었다.","target":"나에게","situation":"목표 달성 실패","tone":"funny","likes":0,"isActive":true}
+{"_type":"excuse","text":"약속을 지키려 했지만 컨디션이 집단행동을 시작했다.","target":"연인","situation":"약속 취소","tone":"funny","likes":0,"isActive":true}
+{"_type":"excuse","text":"오늘은 아무것도 안 하기엔 너무 많은 생각을 했다.","target":"나에게","situation":"아무것도 안 함","tone":"funny","likes":0,"isActive":true}
+
+{"_type":"excuse","text":"업무를 시작하려는 순간 생각이 다른 프로젝트로 이동했다.","target":"동료","situation":"실수","tone":"funny","likes":0,"isActive":true}
+{"_type":"excuse","text":"출근 준비 중 시간이 독단적으로 결정을 내렸다.","target":"직장 상사","situation":"지각","tone":"funny","likes":0,"isActive":true}
+{"_type":"excuse","text":"계획은 현실적이었으나 현실이 이를 거부했다.","target":"나에게","situation":"목표 달성 실패","tone":"funny","likes":0,"isActive":true}
+{"_type":"excuse","text":"약속을 취소하지 않으면 오늘이 나를 취소할 분위기였다.","target":"친구","situation":"약속 취소","tone":"funny","likes":0,"isActive":true}
+{"_type":"excuse","text":"아무것도 안 하기로 결정하는 회의가 길어졌다.","target":"나에게","situation":"아무것도 안 함","tone":"funny","likes":0,"isActive":true}
+
+{"_type":"excuse","text":"집중력은 도착했는데 설명서를 잃어버렸다.","target":"동료","situation":"실수","tone":"funny","likes":0,"isActive":true}
+{"_type":"excuse","text":"출근 시간과 협상이 결렬됐다.","target":"직장 상사","situation":"지각","tone":"funny","likes":0,"isActive":true}
+{"_type":"excuse","text":"계획을 조정하다가 하루가 계획에서 이탈했다.","target":"나에게","situation":"목표 달성 실패","tone":"funny","likes":0,"isActive":true}
+{"_type":"excuse","text":"약속을 지키려 했지만 오늘의 분위기가 완강했다.","target":"연인","situation":"약속 취소","tone":"funny","likes":0,"isActive":true}
+{"_type":"excuse","text":"오늘은 아무것도 안 하는 쪽이 합리적으로 느껴졌다.","target":"나에게","situation":"아무것도 안 함","tone":"funny","likes":0,"isActive":true}
+
+{"_type":"excuse","text":"업무를 시작하자마자 생각이 휴식에 들어갔다.","target":"동료","situation":"실수","tone":"funny","likes":0,"isActive":true}
+{"_type":"excuse","text":"출근 준비는 했지만 시간이 내 의견을 묻지 않았다.","target":"직장 상사","situation":"지각","tone":"funny","likes":0,"isActive":true}
+{"_type":"excuse","text":"계획은 있었으나 오늘이 이를 참고만 했다.","target":"나에게","situation":"목표 달성 실패","tone":"funny","likes":0,"isActive":true}
+{"_type":"excuse","text":"약속을 취소한 건 오늘의 기세가 너무 셌다.","target":"친구","situation":"약속 취소","tone":"funny","likes":0,"isActive":true}
+{"_type":"excuse","text":"아무것도 안 하기로 한 판단이 가장 큰 결정이었다.","target":"나에게","situation":"아무것도 안 함","tone":"funny","likes":0,"isActive":true}
+
+{"_type":"excuse","text":"집중하려는 순간 생각이 자율주행 모드에 들어갔다.","target":"동료","situation":"실수","tone":"funny","likes":0,"isActive":true}
+{"_type":"excuse","text":"출근 시간은 정했지만 시간이 동의하지 않았다.","target":"직장 상사","situation":"지각","tone":"funny","likes":0,"isActive":true}
+{"_type":"excuse","text":"계획을 실행하려다 오늘이 먼저 반응했다.","target":"나에게","situation":"목표 달성 실패","tone":"funny","likes":0,"isActive":true}
+{"_type":"excuse","text":"약속을 지키기엔 오늘의 컨디션이 너무 솔직했다.","target":"연인","situation":"약속 취소","tone":"funny","likes":0,"isActive":true}
+{"_type":"excuse","text":"오늘은 아무것도 안 하기로 결론이 났다.","target":"나에게","situation":"아무것도 안 함","tone":"funny","likes":0,"isActive":true}
+
+{"_type":"excuse","text":"출근 준비는 다 했는데 시간이 나를 버리고 먼저 가버렸다.","target":"직장 상사","situation":"지각","tone":"funny","likes":0,"isActive":true}
+{"_type":"excuse","text":"회의 내용을 이해하는 순간 생각이 잠시 로그아웃했다.","target":"동료","situation":"실수","tone":"funny","likes":0,"isActive":true}
+{"_type":"excuse","text":"계획을 세우다 보니 오늘이 계획에서 이탈해버렸다.","target":"나에게","situation":"목표 달성 실패","tone":"funny","likes":0,"isActive":true}
+{"_type":"excuse","text":"약속 장소를 떠올리는 순간 컨디션이 먼저 취소를 눌렀다.","target":"친구","situation":"약속 취소","tone":"funny","likes":0,"isActive":true}
+{"_type":"excuse","text":"아무것도 안 하려고 했는데 그 결정을 설명하느라 하루가 갔다.","target":"나에게","situation":"아무것도 안 함","tone":"funny","likes":0,"isActive":true}
+
+{"_type":"excuse","text":"집중하려는 찰나 생각이 다른 안건을 들고 도망갔다.","target":"동료","situation":"실수","tone":"funny","likes":0,"isActive":true}
+{"_type":"excuse","text":"출근길에서 시간과 철학적 의견 차이가 생겼다.","target":"직장 상사","situation":"지각","tone":"funny","likes":0,"isActive":true}
+{"_type":"excuse","text":"계획은 단단했는데 오늘이 그것을 시험에 들게 했다.","target":"나에게","situation":"목표 달성 실패","tone":"funny","likes":0,"isActive":true}
+{"_type":"excuse","text":"약속을 지키려 했으나 오늘의 기분이 단체 행동에 돌입했다.","target":"연인","situation":"약속 취소","tone":"funny","likes":0,"isActive":true}
+{"_type":"excuse","text":"오늘은 아무것도 안 하기로 내부 결재가 완료됐다.","target":"나에게","situation":"아무것도 안 함","tone":"funny","likes":0,"isActive":true}
+
+{"_type":"excuse","text":"업무를 시작하려는 순간 생각이 점심을 먼저 먹었다.","target":"동료","situation":"실수","tone":"funny","likes":0,"isActive":true}
+{"_type":"excuse","text":"출근 준비 중 시간이 독자 노선을 선언했다.","target":"직장 상사","situation":"지각","tone":"funny","likes":0,"isActive":true}
+{"_type":"excuse","text":"계획을 실행하려다 오늘이 다른 결말을 선택했다.","target":"나에게","situation":"목표 달성 실패","tone":"funny","likes":0,"isActive":true}
+{"_type":"excuse","text":"약속을 취소하지 않으면 오늘이 나를 힘들게 할 것 같았다.","target":"친구","situation":"약속 취소","tone":"funny","likes":0,"isActive":true}
+{"_type":"excuse","text":"아무것도 안 하려다 그 상태를 유지하느라 바빴다.","target":"나에게","situation":"아무것도 안 함","tone":"funny","likes":0,"isActive":true}
+
+{"_type":"excuse","text":"집중력은 출근했지만 업무 설명서를 분실했다.","target":"동료","situation":"실수","tone":"funny","likes":0,"isActive":true}
+{"_type":"excuse","text":"출근 시간과 끝내 합의점을 찾지 못했다.","target":"직장 상사","situation":"지각","tone":"funny","likes":0,"isActive":true}
+{"_type":"excuse","text":"계획은 분명했으나 현실이 이를 검토 중이었다.","target":"나에게","situation":"목표 달성 실패","tone":"funny","likes":0,"isActive":true}
+{"_type":"excuse","text":"약속을 지키려 했지만 오늘의 분위기가 완강했다.","target":"연인","situation":"약속 취소","tone":"funny","likes":0,"isActive":true}
+{"_type":"excuse","text":"오늘은 아무것도 안 하기에 논리적 근거가 충분했다.","target":"나에게","situation":"아무것도 안 함","tone":"funny","likes":0,"isActive":true}
+
+{"_type":"excuse","text":"업무를 시작하자마자 생각이 외근을 나갔다.","target":"동료","situation":"실수","tone":"funny","likes":0,"isActive":true}
+{"_type":"excuse","text":"출근 준비는 끝났는데 시간이 내 의견을 무시했다.","target":"직장 상사","situation":"지각","tone":"funny","likes":0,"isActive":true}
+{"_type":"excuse","text":"계획을 수정하다가 하루 전체가 수정 대상이 됐다.","target":"나에게","situation":"목표 달성 실패","tone":"funny","likes":0,"isActive":true}
+{"_type":"excuse","text":"약속을 취소한 건 오늘의 기운이 너무 공격적이었다.","target":"친구","situation":"약속 취소","tone":"funny","likes":0,"isActive":true}
+{"_type":"excuse","text":"아무것도 안 하기로 결론을 내리는 데 하루가 걸렸다.","target":"나에게","situation":"아무것도 안 함","tone":"funny","likes":0,"isActive":true}
+
+{"_type":"excuse","text":"집중하려는 순간 생각이 자율주행 모드로 전환됐다.","target":"동료","situation":"실수","tone":"funny","likes":0,"isActive":true}
+{"_type":"excuse","text":"출근 시간은 정했지만 시간이 끝내 설득되지 않았다.","target":"직장 상사","situation":"지각","tone":"funny","likes":0,"isActive":true}
+{"_type":"excuse","text":"계획은 준비됐는데 오늘이 이를 보류 처리했다.","target":"나에게","situation":"목표 달성 실패","tone":"funny","likes":0,"isActive":true}
+{"_type":"excuse","text":"약속을 지키기엔 오늘의 컨디션이 너무 솔직했다.","target":"연인","situation":"약속 취소","tone":"funny","likes":0,"isActive":true}
+{"_type":"excuse","text":"오늘은 아무것도 안 하는 쪽으로 결론이 정리됐다.","target":"나에게","situation":"아무것도 안 함","tone":"funny","likes":0,"isActive":true}
+
+
+{"_type":"excuse","text":"출근 준비는 끝났는데 시간이 나 없이 출근해버렸다.","target":"직장 상사","situation":"지각","tone":"funny","likes":0,"isActive":true}
+{"_type":"excuse","text":"회의 내용을 이해하려는 순간 생각이 휴가를 선언했다.","target":"동료","situation":"실수","tone":"funny","likes":0,"isActive":true}
+{"_type":"excuse","text":"계획을 세우다 보니 하루가 계획에서 탈주했다.","target":"나에게","situation":"목표 달성 실패","tone":"funny","likes":0,"isActive":true}
+{"_type":"excuse","text":"약속 장소를 떠올리는 순간 컨디션이 긴급 회의를 소집했다.","target":"친구","situation":"약속 취소","tone":"funny","likes":0,"isActive":true}
+{"_type":"excuse","text":"아무것도 안 하기로 결심했는데 그 결심이 너무 바빴다.","target":"나에게","situation":"아무것도 안 함","tone":"funny","likes":0,"isActive":true}
+
+{"_type":"excuse","text":"집중하려는 찰나 생각이 다른 인생을 살러 갔다.","target":"동료","situation":"실수","tone":"funny","likes":0,"isActive":true}
+{"_type":"excuse","text":"출근길에서 시간과 이념 차이가 발생했다.","target":"직장 상사","situation":"지각","tone":"funny","likes":0,"isActive":true}
+{"_type":"excuse","text":"계획은 단단했는데 오늘이 그것을 비웃었다.","target":"나에게","situation":"목표 달성 실패","tone":"funny","likes":0,"isActive":true}
+{"_type":"excuse","text":"약속을 지키려 했지만 오늘의 기분이 쿠데타를 일으켰다.","target":"연인","situation":"약속 취소","tone":"funny","likes":0,"isActive":true}
+{"_type":"excuse","text":"오늘은 아무것도 안 하기로 내부 감사가 통과됐다.","target":"나에게","situation":"아무것도 안 함","tone":"funny","likes":0,"isActive":true}
+
+{"_type":"excuse","text":"업무를 시작하자마자 생각이 퇴근을 예약했다.","target":"동료","situation":"실수","tone":"funny","likes":0,"isActive":true}
+{"_type":"excuse","text":"출근 준비 중 시간이 나에게 사직서를 냈다.","target":"직장 상사","situation":"지각","tone":"funny","likes":0,"isActive":true}
+{"_type":"excuse","text":"계획을 실행하려다 오늘이 다른 엔딩을 선택했다.","target":"나에게","situation":"목표 달성 실패","tone":"funny","likes":0,"isActive":true}
+{"_type":"excuse","text":"약속을 취소하지 않으면 오늘이 나를 취소할 것 같았다.","target":"친구","situation":"약속 취소","tone":"funny","likes":0,"isActive":true}
+{"_type":"excuse","text":"아무것도 안 하려다 그 상태를 유지하느라 번아웃이 왔다.","target":"나에게","situation":"아무것도 안 함","tone":"funny","likes":0,"isActive":true}
+
+{"_type":"excuse","text":"집중력은 출근했는데 사고 회로가 결근했다.","target":"동료","situation":"실수","tone":"funny","likes":0,"isActive":true}
+{"_type":"excuse","text":"출근 시간과 끝내 외교 협상이 결렬됐다.","target":"직장 상사","situation":"지각","tone":"funny","likes":0,"isActive":true}
+{"_type":"excuse","text":"계획은 준비됐지만 오늘이 이를 보류 처리했다.","target":"나에게","situation":"목표 달성 실패","tone":"funny","likes":0,"isActive":true}
+{"_type":"excuse","text":"약속을 지키려 했으나 오늘의 분위기가 너무 완강했다.","target":"연인","situation":"약속 취소","tone":"funny","likes":0,"isActive":true}
+{"_type":"excuse","text":"오늘은 아무것도 안 하기에 명분이 충분히 쌓였다.","target":"나에게","situation":"아무것도 안 함","tone":"funny","likes":0,"isActive":true}
+
+{"_type":"excuse","text":"업무를 시작하려는 순간 생각이 개인 사정을 밝혔다.","target":"동료","situation":"실수","tone":"funny","likes":0,"isActive":true}
+{"_type":"excuse","text":"출근 준비는 했는데 시간이 단독 행동을 시작했다.","target":"직장 상사","situation":"지각","tone":"funny","likes":0,"isActive":true}
+{"_type":"excuse","text":"계획을 조정하다가 하루 일정이 증발했다.","target":"나에게","situation":"목표 달성 실패","tone":"funny","likes":0,"isActive":true}
+{"_type":"excuse","text":"약속을 취소한 건 오늘의 기세가 너무 강력했다.","target":"친구","situation":"약속 취소","tone":"funny","likes":0,"isActive":true}
+{"_type":"excuse","text":"아무것도 안 하기로 결정하는 과정이 가장 바빴다.","target":"나에게","situation":"아무것도 안 함","tone":"funny","likes":0,"isActive":true}
+
+{"_type":"excuse","text":"집중하려는 순간 생각이 자율주행을 선언했다.","target":"동료","situation":"실수","tone":"funny","likes":0,"isActive":true}
+{"_type":"excuse","text":"출근 시간은 정했지만 시간이 이를 승인하지 않았다.","target":"직장 상사","situation":"지각","tone":"funny","likes":0,"isActive":true}
+{"_type":"excuse","text":"계획은 있었으나 오늘이 이를 참고만 했다.","target":"나에게","situation":"목표 달성 실패","tone":"funny","likes":0,"isActive":true}
+{"_type":"excuse","text":"약속을 지키기엔 오늘의 컨디션이 너무 솔직했다.","target":"연인","situation":"약속 취소","tone":"funny","likes":0,"isActive":true}
+{"_type":"excuse","text":"오늘은 아무것도 안 하는 쪽으로 최종 결론이 났다.","target":"나에게","situation":"아무것도 안 함","tone":"funny","likes":0,"isActive":true}
+
+
+{"_type":"excuse","text":"출근길에서 신호등이 나에게 오늘은 쉬라고 조언했다.","target":"직장 상사","situation":"지각","tone":"nonsense","likes":0,"isActive":true}
+{"_type":"excuse","text":"회의 중에 생각이 갑자기 새로고침을 눌렀다.","target":"동료","situation":"실수","tone":"nonsense","likes":0,"isActive":true}
+{"_type":"excuse","text":"계획을 세우는 순간 계획이 자아를 갖기 시작했다.","target":"나에게","situation":"목표 달성 실패","tone":"nonsense","likes":0,"isActive":true}
+{"_type":"excuse","text":"약속 시간에 맞춰 나가려 했는데 현관문이 나를 말렸다.","target":"친구","situation":"약속 취소","tone":"nonsense","likes":0,"isActive":true}
+{"_type":"excuse","text":"아무것도 안 하려 했는데 시간이 먼저 멈춰버렸다.","target":"나에게","situation":"아무것도 안 함","tone":"nonsense","likes":0,"isActive":true}
+
+{"_type":"excuse","text":"집중하려는 순간 생각이 갑자기 외계어로 전환됐다.","target":"동료","situation":"실수","tone":"nonsense","likes":0,"isActive":true}
+{"_type":"excuse","text":"출근길에서 시간 개념이 방향 감각을 잃었다.","target":"직장 상사","situation":"지각","tone":"nonsense","likes":0,"isActive":true}
+{"_type":"excuse","text":"계획을 실행하려다 계획이 나를 거부했다.","target":"나에게","situation":"목표 달성 실패","tone":"nonsense","likes":0,"isActive":true}
+{"_type":"excuse","text":"약속을 지키려는 순간 오늘의 공기가 반대 의견을 냈다.","target":"연인","situation":"약속 취소","tone":"nonsense","likes":0,"isActive":true}
+{"_type":"excuse","text":"오늘은 아무것도 안 하기에 우주가 너무 조용했다.","target":"나에게","situation":"아무것도 안 함","tone":"nonsense","likes":0,"isActive":true}
+
+{"_type":"excuse","text":"업무를 시작하자마자 생각이 평행우주로 이동했다.","target":"동료","situation":"실수","tone":"nonsense","likes":0,"isActive":true}
+{"_type":"excuse","text":"출근 시간과 시간대가 서로 합의하지 못했다.","target":"직장 상사","situation":"지각","tone":"nonsense","likes":0,"isActive":true}
+{"_type":"excuse","text":"계획을 세우는 도중 계획이 독립 선언을 했다.","target":"나에게","situation":"목표 달성 실패","tone":"nonsense","likes":0,"isActive":true}
+{"_type":"excuse","text":"약속을 지키려 했으나 달력이 나를 배신했다.","target":"친구","situation":"약속 취소","tone":"nonsense","likes":0,"isActive":true}
+{"_type":"excuse","text":"아무것도 안 하려고 했는데 중력이 너무 강했다.","target":"나에게","situation":"아무것도 안 함","tone":"nonsense","likes":0,"isActive":true}
+
+{"_type":"excuse","text":"집중력은 있었지만 생각들이 서로 말을 안 들었다.","target":"동료","situation":"실수","tone":"nonsense","likes":0,"isActive":true}
+{"_type":"excuse","text":"출근 준비 중 시간이 나보다 먼저 퇴근했다.","target":"직장 상사","situation":"지각","tone":"nonsense","likes":0,"isActive":true}
+{"_type":"excuse","text":"계획을 실행하려는 순간 계획이 로그아웃했다.","target":"나에게","situation":"목표 달성 실패","tone":"nonsense","likes":0,"isActive":true}
+{"_type":"excuse","text":"약속 장소 근처에서 현실이 잠시 멈췄다.","target":"연인","situation":"약속 취소","tone":"nonsense","likes":0,"isActive":true}
+{"_type":"excuse","text":"오늘은 아무것도 안 하기에 공기의 눈치가 심했다.","target":"나에게","situation":"아무것도 안 함","tone":"nonsense","likes":0,"isActive":true}
+
+{"_type":"excuse","text":"업무를 하려는 순간 생각이 갑자기 철학자가 됐다.","target":"동료","situation":"실수","tone":"nonsense","likes":0,"isActive":true}
+{"_type":"excuse","text":"출근길에서 시간의 직진성이 무너졌다.","target":"직장 상사","situation":"지각","tone":"nonsense","likes":0,"isActive":true}
+{"_type":"excuse","text":"계획을 세웠는데 계획이 나를 계획했다.","target":"나에게","situation":"목표 달성 실패","tone":"nonsense","likes":0,"isActive":true}
+{"_type":"excuse","text":"약속을 지키려 했지만 오늘의 날씨가 나를 설득했다.","target":"친구","situation":"약속 취소","tone":"nonsense","likes":0,"isActive":true}
+{"_type":"excuse","text":"아무것도 안 하기로 했는데 시간이 너무 적극적이었다.","target":"나에게","situation":"아무것도 안 함","tone":"nonsense","likes":0,"isActive":true}
+
+{"_type":"excuse","text":"집중하려는 순간 생각이 자신을 의심하기 시작했다.","target":"동료","situation":"실수","tone":"nonsense","likes":0,"isActive":true}
+{"_type":"excuse","text":"출근 시간에 맞춰 움직였지만 현실이 업데이트됐다.","target":"직장 상사","situation":"지각","tone":"nonsense","likes":0,"isActive":true}
+{"_type":"excuse","text":"계획을 실행하려 했으나 계획이 나를 피해 갔다.","target":"나에게","situation":"목표 달성 실패","tone":"nonsense","likes":0,"isActive":true}
+{"_type":"excuse","text":"약속을 지키기엔 오늘의 공기가 너무 솔직했다.","target":"연인","situation":"약속 취소","tone":"nonsense","likes":0,"isActive":true}
+{"_type":"excuse","text":"오늘은 아무것도 안 하라고 책상이 먼저 말해줬다.","target":"나에게","situation":"아무것도 안 함","tone":"nonsense","likes":0,"isActive":true}
+
+
+{"_type":"excuse","text":"출근하려고 했는데 내가 이미 출근한 기분이라 멈췄다.","target":"직장 상사","situation":"지각","tone":"nonsense","likes":0,"isActive":true}
+{"_type":"excuse","text":"회의 내용을 적으려다 글자가 나보다 먼저 포기했다.","target":"동료","situation":"실수","tone":"nonsense","likes":0,"isActive":true}
+{"_type":"excuse","text":"목표를 생각하는 순간 이미 달성한 척이 돼버렸다.","target":"나에게","situation":"목표 달성 실패","tone":"nonsense","likes":0,"isActive":true}
+{"_type":"excuse","text":"약속을 나가려다 내가 이미 다녀온 사람처럼 피곤해졌다.","target":"친구","situation":"약속 취소","tone":"nonsense","likes":0,"isActive":true}
+{"_type":"excuse","text":"아무것도 안 하다 보니 오늘이 나를 지나쳐 갔다.","target":"나에게","situation":"아무것도 안 함","tone":"nonsense","likes":0,"isActive":true}
+
+{"_type":"excuse","text":"집중하려 했는데 생각이 너무 많아 한 명씩 흩어졌다.","target":"동료","situation":"실수","tone":"nonsense","likes":0,"isActive":true}
+{"_type":"excuse","text":"출근 시간에 맞춰 움직였지만 내가 시간을 오해했다.","target":"직장 상사","situation":"지각","tone":"nonsense","likes":0,"isActive":true}
+{"_type":"excuse","text":"계획을 세우다 보니 계획할 이유가 사라졌다.","target":"나에게","situation":"목표 달성 실패","tone":"nonsense","likes":0,"isActive":true}
+{"_type":"excuse","text":"약속을 지키려 했는데 이미 끝난 느낌이 들었다.","target":"연인","situation":"약속 취소","tone":"nonsense","likes":0,"isActive":true}
+{"_type":"excuse","text":"아무것도 안 하는 중이었는데 그 상태가 너무 완벽했다.","target":"나에게","situation":"아무것도 안 함","tone":"nonsense","likes":0,"isActive":true}
+
+{"_type":"excuse","text":"회의 중에 내가 무슨 말을 하려 했는지 나를 잃어버렸다.","target":"동료","situation":"실수","tone":"nonsense","likes":0,"isActive":true}
+{"_type":"excuse","text":"출근 준비를 마쳤는데 출근할 이유가 사라졌다.","target":"직장 상사","situation":"지각","tone":"nonsense","likes":0,"isActive":true}
+{"_type":"excuse","text":"목표를 향해 가다가 왜 가는지 잊어버렸다.","target":"나에게","situation":"목표 달성 실패","tone":"nonsense","likes":0,"isActive":true}
+{"_type":"excuse","text":"약속을 떠올리는 순간 이미 집에 돌아온 기분이었다.","target":"친구","situation":"약속 취소","tone":"nonsense","likes":0,"isActive":true}
+{"_type":"excuse","text":"아무것도 안 하기로 했는데 시간이 나를 대신 살았다.","target":"나에게","situation":"아무것도 안 함","tone":"nonsense","likes":0,"isActive":true}
+
+{"_type":"excuse","text":"집중하려는 순간 내가 지금 뭘 하는 사람인지 헷갈렸다.","target":"동료","situation":"실수","tone":"nonsense","likes":0,"isActive":true}
+{"_type":"excuse","text":"출근길에 도착한 것 같은 기분이 먼저 와버렸다.","target":"직장 상사","situation":"지각","tone":"nonsense","likes":0,"isActive":true}
+{"_type":"excuse","text":"계획을 실행하려 했는데 이미 실패한 기억이 떠올랐다.","target":"나에게","situation":"목표 달성 실패","tone":"nonsense","likes":0,"isActive":true}
+{"_type":"excuse","text":"약속을 지키는 상상을 너무 열심히 했다.","target":"연인","situation":"약속 취소","tone":"nonsense","likes":0,"isActive":true}
+{"_type":"excuse","text":"아무것도 안 하는 중에 하루가 끝났다는 사실을 알았다.","target":"나에게","situation":"아무것도 안 함","tone":"nonsense","likes":0,"isActive":true}
+
+{"_type":"excuse","text":"업무를 하려다 내가 왜 여기에 있는지 잊었다.","target":"동료","situation":"실수","tone":"nonsense","likes":0,"isActive":true}
+{"_type":"excuse","text":"출근 시간에 맞췄는데 내가 오늘인 걸 깜빡했다.","target":"직장 상사","situation":"지각","tone":"nonsense","likes":0,"isActive":true}
+{"_type":"excuse","text":"목표를 정하는 순간 그 목표가 너무 먼 얘기처럼 느껴졌다.","target":"나에게","situation":"목표 달성 실패","tone":"nonsense","likes":0,"isActive":true}
+{"_type":"excuse","text":"약속을 나가려다 이미 집에 온 사람처럼 쉬고 있었다.","target":"친구","situation":"약속 취소","tone":"nonsense","likes":0,"isActive":true}
+{"_type":"excuse","text":"아무것도 안 했는데 뭔가 다 한 느낌이 들었다.","target":"나에게","situation":"아무것도 안 함","tone":"nonsense","likes":0,"isActive":true}
+
+{"_type":"excuse","text":"집중하려는 순간 내가 집중하는 사람인지 확신이 없었다.","target":"동료","situation":"실수","tone":"nonsense","likes":0,"isActive":true}
+{"_type":"excuse","text":"출근하려다 이미 하루를 산 기분이 들어 멈췄다.","target":"직장 상사","situation":"지각","tone":"nonsense","likes":0,"isActive":true}
+{"_type":"excuse","text":"계획을 실행하기 전에 이미 끝난 것처럼 느껴졌다.","target":"나에게","situation":"목표 달성 실패","tone":"nonsense","likes":0,"isActive":true}
+{"_type":"excuse","text":"약속을 지키는 상상을 하다 실제를 포기했다.","target":"연인","situation":"약속 취소","tone":"nonsense","likes":0,"isActive":true}
+{"_type":"excuse","text":"아무것도 안 하는 게 오늘의 가장 적극적인 행동이었다.","target":"나에게","situation":"아무것도 안 함","tone":"nonsense","likes":0,"isActive":true}
+
+
+{"_type":"excuse","text":"출근길에서 횡단보도가 나에게 인생을 다시 생각하라고 했다.","target":"직장 상사","situation":"지각","tone":"nonsense","likes":0,"isActive":true}
+{"_type":"excuse","text":"회의 중에 생각들이 서로 다른 나라로 망명했다.","target":"동료","situation":"실수","tone":"nonsense","likes":0,"isActive":true}
+{"_type":"excuse","text":"계획을 세우자마자 계획이 나보다 먼저 성장했다.","target":"나에게","situation":"목표 달성 실패","tone":"nonsense","likes":0,"isActive":true}
+{"_type":"excuse","text":"약속을 나가려 했는데 신발이 오늘은 관망 모드였다.","target":"친구","situation":"약속 취소","tone":"nonsense","likes":0,"isActive":true}
+{"_type":"excuse","text":"아무것도 안 하려고 했는데 공기가 너무 적극적이었다.","target":"나에게","situation":"아무것도 안 함","tone":"nonsense","likes":0,"isActive":true}
+
+{"_type":"excuse","text":"집중하려는 순간 생각이 자아 찾기 여행을 떠났다.","target":"동료","situation":"실수","tone":"nonsense","likes":0,"isActive":true}
+{"_type":"excuse","text":"출근 시간에 맞췄는데 시간이 갑자기 구형이 됐다.","target":"직장 상사","situation":"지각","tone":"nonsense","likes":0,"isActive":true}
+{"_type":"excuse","text":"계획을 실행하려 하자 계획이 스스로를 의심했다.","target":"나에게","situation":"목표 달성 실패","tone":"nonsense","likes":0,"isActive":true}
+{"_type":"excuse","text":"약속을 지키려는 순간 달력이 사표를 냈다.","target":"연인","situation":"약속 취소","tone":"nonsense","likes":0,"isActive":true}
+{"_type":"excuse","text":"오늘은 아무것도 안 하기에 바닥이 너무 설득력이 있었다.","target":"나에게","situation":"아무것도 안 함","tone":"nonsense","likes":0,"isActive":true}
+
+{"_type":"excuse","text":"업무를 시작하자마자 생각이 물리 법칙을 무시했다.","target":"동료","situation":"실수","tone":"nonsense","likes":0,"isActive":true}
+{"_type":"excuse","text":"출근길에서 시간의 직선성이 완전히 붕괴됐다.","target":"직장 상사","situation":"지각","tone":"nonsense","likes":0,"isActive":true}
+{"_type":"excuse","text":"계획을 세우는 순간 계획이 나를 평가하기 시작했다.","target":"나에게","situation":"목표 달성 실패","tone":"nonsense","likes":0,"isActive":true}
+{"_type":"excuse","text":"약속 장소 근처에서 현실이 점검 중 상태였다.","target":"친구","situation":"약속 취소","tone":"nonsense","likes":0,"isActive":true}
+{"_type":"excuse","text":"아무것도 안 하려 했는데 중력이 너무 개인적이었다.","target":"나에게","situation":"아무것도 안 함","tone":"nonsense","likes":0,"isActive":true}
+
+{"_type":"excuse","text":"집중력은 있었지만 생각들이 민주적으로 흩어졌다.","target":"동료","situation":"실수","tone":"nonsense","likes":0,"isActive":true}
+{"_type":"excuse","text":"출근 준비 중 시간이 나에게 조건부 승인을 요청했다.","target":"직장 상사","situation":"지각","tone":"nonsense","likes":0,"isActive":true}
+{"_type":"excuse","text":"계획을 실행하려 했으나 계획이 잠시 명상에 들어갔다.","target":"나에게","situation":"목표 달성 실패","tone":"nonsense","likes":0,"isActive":true}
+{"_type":"excuse","text":"약속을 지키려 했지만 오늘의 공기가 반대 의견을 냈다.","target":"연인","situation":"약속 취소","tone":"nonsense","likes":0,"isActive":true}
+{"_type":"excuse","text":"오늘은 아무것도 안 하기에 그림자가 너무 적극적이었다.","target":"나에게","situation":"아무것도 안 함","tone":"nonsense","likes":0,"isActive":true}
+
+{"_type":"excuse","text":"업무를 하려는 순간 생각이 철학적 질문을 던졌다.","target":"동료","situation":"실수","tone":"nonsense","likes":0,"isActive":true}
+{"_type":"excuse","text":"출근 시간에 맞췄지만 시간이 갑자기 사각형이 됐다.","target":"직장 상사","situation":"지각","tone":"nonsense","likes":0,"isActive":true}
+{"_type":"excuse","text":"계획을 세웠는데 계획이 나를 피해 다녔다.","target":"나에게","situation":"목표 달성 실패","tone":"nonsense","likes":0,"isActive":true}
+{"_type":"excuse","text":"약속을 지키려 했으나 오늘의 날씨가 너무 솔직했다.","target":"친구","situation":"약속 취소","tone":"nonsense","likes":0,"isActive":true}
+{"_type":"excuse","text":"아무것도 안 하려고 했는데 시간이 과하게 친절했다.","target":"나에게","situation":"아무것도 안 함","tone":"nonsense","likes":0,"isActive":true}
+
+{"_type":"excuse","text":"집중하려는 순간 생각이 자발적으로 분열했다.","target":"동료","situation":"실수","tone":"nonsense","likes":0,"isActive":true}
+{"_type":"excuse","text":"출근길에서 시간이 갑자기 방향 감각을 상실했다.","target":"직장 상사","situation":"지각","tone":"nonsense","likes":0,"isActive":true}
+{"_type":"excuse","text":"계획을 실행하려 했으나 계획이 나를 모르는 척했다.","target":"나에게","situation":"목표 달성 실패","tone":"nonsense","likes":0,"isActive":true}
+{"_type":"excuse","text":"약속을 지키기엔 오늘의 분위기가 너무 독립적이었다.","target":"연인","situation":"약속 취소","tone":"nonsense","likes":0,"isActive":true}
+{"_type":"excuse","text":"오늘은 아무것도 안 하라고 의자가 먼저 말해줬다.","target":"나에게","situation":"아무것도 안 함","tone":"nonsense","likes":0,"isActive":true}
