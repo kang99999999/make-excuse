@@ -1,9 +1,14 @@
 'use client'
 
 import Swal from 'sweetalert2'
+import { likeExcuse } from '@/lib/excuseApi'
 
 type Props = {
-  excuse: { text: string; likes: number }
+  excuse: {
+    _id: string   // 🔥 반드시 필요
+    text: string
+    likes: number
+  }
   onClose: () => void
   onRetry: () => void
   onLiked: (likes: number) => void
@@ -51,15 +56,25 @@ export default function ExcuseModal({
 }
 
 
-  const like = () => {
-    onLiked(excuse.likes + 1)
+  const like = async () => {
+  try {
+    await likeExcuse(excuse._id)   // ✅ DB 저장
+
+    onLiked(excuse.likes + 1)      // ✅ UI 즉시 반영
+
     Swal.fire({
       icon: 'success',
       title: '👍 좋아요!',
       timer: 1000,
       showConfirmButton: false,
     })
+  } catch (e) {
+    Swal.fire({
+      icon: 'error',
+      title: '잠시 후 다시 시도해주세요',
+    })
   }
+}
 
   const retry = () => {
     Swal.fire({
