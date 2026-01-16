@@ -1,17 +1,24 @@
 import { NextResponse } from 'next/server'
-import { sanity } from '@/lib/sanity'
+import { sanityClient } from '@/lib/sanityClient'
 
 export async function POST(req: Request) {
   const { id } = await req.json()
 
   if (!id) {
-    return NextResponse.json({ error: 'id required' }, { status: 400 })
+    return NextResponse.json({ error: 'No id' }, { status: 400 })
   }
 
-  const result = await sanity
-    .patch(id)
-    .inc({ likes: 1 })
-    .commit()
+  try {
+    const updated = await sanityClient
+      .patch(id)
+      .inc({ likes: 1 })
+      .commit()
 
-  return NextResponse.json({ likes: result.likes })
+    return NextResponse.json({ success: true, likes: updated.likes })
+  } catch (e) {
+    return NextResponse.json(
+      { error: 'Failed to like' },
+      { status: 500 }
+    )
+  }
 }
